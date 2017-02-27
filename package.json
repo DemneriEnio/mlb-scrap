@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "chromedriver": "^2.27.3",
+    "express": "^4.14.1",
+    "node-horseman": "^3.2.0",
+    "phantom": "^4.0.0",
+    "selenium-webdriver": "^3.0.0",
+    "tinyreq": "^3.2.0",
+    "x-ray": "^2.3.1"
+  }
+}
